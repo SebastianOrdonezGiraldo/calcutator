@@ -3,7 +3,7 @@ from calculator import Calculator
 
 class TestCalculator(unittest.TestCase):
     
-    # ESTO ES LO QUE FALTA O ESTÁ MAL ESCRITO:
+    
     def setUp(self):
         self.calc = Calculator()
 
